@@ -1,0 +1,11 @@
+siteTitle = "5π - fish's blog"
+siteDescr = "Outside the box, no one can hear you scream."
+siteAuthor = "Johannes 'fish' Ziemke"
+
+siteTwitterUrl = "https://twitter.com/discordianfish"
+siteGithubUrl = "https://github.com/discordianfish"
+siteRssUrl = "https://5pi.de/rss.xml"
+
+googleAnalyticsId = "UA-22856766-3"
+
+linkPrefix = "/"
